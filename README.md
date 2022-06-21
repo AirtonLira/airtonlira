@@ -1,4 +1,4 @@
-<div align="center">
+
   ## Hi there 👋
 
 Software Data & engineer
@@ -7,7 +7,7 @@ Software Data & engineer
   [Publisher in iMasters](https://imasters.com.br/perfil/airtonlirajr)
   [Personal articles in Linkedn](https://www.linkedin.com/in/airton-lira-junior-6b81a661/recent-activity/posts/)
 
-  
+<div align="center">  
   
   <a href="https://github.com/AirtonLira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airtonlira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
