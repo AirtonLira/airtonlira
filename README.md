@@ -4,8 +4,8 @@
 Software Data & engineer
   
   ## My popular blog posts ✍️:
-  [Publisher in iMasters](https://imasters.com.br/perfil/airtonlirajr) <br><br>
-  [Personal articles in Linkedn](https://www.linkedin.com/in/airton-lira-junior-6b81a661/recent-activity/posts/)
+  [Publisher in iMasters](https://imasters.com.br/perfil/airtonlirajr) <br>
+  [Personal articles in Linkedn](https://www.linkedin.com/in/airton-lira-junior-6b81a661/recent-activity/posts/)<br>
 
 <div align="center">  
   
