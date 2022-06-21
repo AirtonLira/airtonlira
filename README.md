@@ -8,7 +8,7 @@
   <img align="center" alt="Airton-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Airton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Airton-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Airton-Kubernetes" height="30" width="40" src="https://w7.pngwing.com/pngs/126/472/png-transparent-go-redis-computer-programming-programming-language-green-threads-%E9%87%91%E8%9E%8D-computer-programming-programming-language-c.png">
+  <img align="center" alt="Airton-Kubernetes" height="30" width="40" src="https://img.icons8.com/color/480/golang.png">
   <img align="center" alt="Airton-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 </div>
 
