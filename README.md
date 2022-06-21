@@ -1,4 +1,14 @@
 <div align="center">
+  ## Hi there 👋
+
+Software Data & engineer
+  
+  ## My popular blog posts ✍️:
+  [Publisher in iMasters](https://imasters.com.br/perfil/airtonlirajr)
+  [Personal articles in Linkedn](https://www.linkedin.com/in/airton-lira-junior-6b81a661/recent-activity/posts/)
+
+  
+  
   <a href="https://github.com/AirtonLira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airtonlira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonlira&layout=compact&langs_count=7&theme=midnight-purple"/>
