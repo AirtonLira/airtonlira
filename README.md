@@ -26,8 +26,8 @@ Software Data & engineer
 
 <div> 
  <a href="https://www.linkedin.com/in/airton-lira-junior-6b81a661/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://airtonlirajr.medium.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIqoGLbQ47wAUYj77_jQzGccUd6EK7VEXkw&usqp=CAU" target="_blank"></a>
-  =
+   <a href="https://airtonlirajr.medium.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIqoGLbQ47wAUYj77_jQzGccUd6EK7VEXkw&usqp=CAU" target="_blank" height="30" width="40"></a>
+  
  
   ![Snake animation](https://github.com/josecarlosbarbosa/josecarlosbarbosa/blob/output/github-contribution-grid-snake.svg)
  
