@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Airton%20Lira%20Junior&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Architect%20%26%20AI%20Native%20Engineer&descSize=18&descAlignY=56" alt="Airton Lira Junior — Data Architect & AI Native Engineer" width="100%"/>
+<img src="assets/header.svg" alt="Airton Lira Junior — Data Architect & AI Native Engineer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=2C9FDB&center=true&vCenter=true&width=720&height=30&lines=Specialist+AI+Engineer+%40+Asaas;Agentes+de+IA+%C2%B7+RAG+%C2%B7+LLMOps+%C2%B7+MCP;Engenharia+de+Dados+%C2%B7+Databricks+%C2%B7+AWS;Colunista+no+iMasters+%C2%B7+Palestrante" alt="Specialist AI Engineer @ Asaas"/>
 
@@ -155,5 +155,3 @@ Sou colunista do [iMasters](https://imasters.com.br/perfil/airtonlirajr) com **m
 - 💼 LinkedIn: [airton-de-souza-lira-junior](https://www.linkedin.com/in/airton-de-souza-lira-junior-6b81a661/)
 - ✍️ iMasters: [imasters.com.br/perfil/airtonlirajr](https://imasters.com.br/perfil/airtonlirajr)
 - 📧 E-mail: [airtonlirajr@gmail.com](mailto:airtonlirajr@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%"/>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Airton Lira Junior — Data Architect &amp; AI Native Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="12" fill="url(#bg)"/>
+  <!-- grafo decorativo: remete a dados e agentes -->
+  <g stroke="#2C9FDB" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+    <path d="M40 150 L110 90 L180 130 L240 60"/>
+    <path d="M110 90 L120 30"/>
+    <path d="M860 50 L790 110 L720 70 L660 140"/>
+    <path d="M790 110 L780 170"/>
+  </g>
+  <g fill="#2C9FDB" fill-opacity="0.8">
+    <circle cx="40" cy="150" r="5"/><circle cx="110" cy="90" r="6"/><circle cx="180" cy="130" r="4"/>
+    <circle cx="240" cy="60" r="5"/><circle cx="120" cy="30" r="4"/>
+    <circle cx="860" cy="50" r="5"/><circle cx="790" cy="110" r="6"/><circle cx="720" cy="70" r="4"/>
+    <circle cx="660" cy="140" r="5"/><circle cx="780" cy="170" r="4"/>
+  </g>
+  <text x="450" y="98" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Airton Lira Junior</text>
+  <text x="450" y="140" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#cfe8f3" letter-spacing="1">Data Architect &amp; AI Native Engineer</text>
+</svg>
